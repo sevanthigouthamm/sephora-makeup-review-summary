@@ -7,10 +7,16 @@ This project analyzes over 50,000 Sephora product reviews to uncover customer se
 
 ## Key Findings
 - **Positive Sentiment Dominates**: A majority of products received highly positive reviews, highlighting strong customer satisfaction with popular brands.  
-- **Recurring Pain Points**: Negative sentiment often clustered around product **consistency, pricing, and longevity** — issues that frequently appeared across multiple brands.  
+![Postive Reviews](images/Positive.png)
+![Neutral Reviews](images/Neutral.png)
+![Sentiments Reviews](images/Sentiment.png)
+
+- **Recurring Pain Points**: Negative sentiment often clustered around product **consistency, pricing, and longevity** — issues that frequently appeared across multiple brands.
+![Negative Reviews](images/Negative.png)
 - **Brand Differentiation**: Some brands showed strong consistency in positive sentiment, while others displayed wider variance, indicating uneven product performance within the brand portfolio.  
 - **LLM-Generated Pros/Cons**: Summaries highlighted **common customer praise** (texture, packaging, quality) and **frequent complaints** (allergic reactions, poor shade range), enabling quick product health assessments without manually reading thousands of reviews.  
-
+![Reviews Count](images/Review_count.png)
+![Average Rating](images/Avg_rating.png)
 ---
 
 ## Recommendations
